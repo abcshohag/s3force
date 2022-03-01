@@ -19025,3 +19025,17 @@ section {
   margin-right: 10px;
   margin-left: 10px;
 }
+
+.navbar-brand img{
+  width: 65px !important;
+  float: left;
+  margin-right: 14px !important;
+}
+
+.navbar-brand h2 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  margin: 0px;
+  padding: 0px;
+}
